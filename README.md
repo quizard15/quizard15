@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Javascript
+
+
 <!--
 **quizard15/quizard15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
